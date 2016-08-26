@@ -1,4 +1,4 @@
 # Summary
 
-* Core Projects
+* [Core Projects](core_projects.md)
 
