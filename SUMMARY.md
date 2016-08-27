@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Core Projects](core_projects.md)
-* Solution Structure
+* [Solution Structure](solution_structure.md)
 
