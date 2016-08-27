@@ -1,2 +1,7 @@
 # Solution Structure
 
+```
+~/
+  <ProjectName>/
+```
+
