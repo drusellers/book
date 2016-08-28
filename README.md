@@ -1,1 +1,1 @@
-HI
+This book is an attempt to document all of my thoughts, ideas, and peculiarities around developing applications. As a veteran .Net developer the majority of this will be colored by the .Net languages and environment.
