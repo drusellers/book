@@ -5,5 +5,5 @@
 * [Application Solution Structure](solution_structure.md)
 * [Core Projects](core_projects.md)
 * Library Solution Structure
-* Web Projects
+* [Web Projects](web_projects.md)
 
