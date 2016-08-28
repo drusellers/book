@@ -20,3 +20,19 @@
         <ControllerName>/
             <ActionName>.cshtml
 ```
+
+## Versioned APIs
+
+```
+~/
+    Controllers/
+        <Controller>Controller.cs
+        Api/
+          v1/
+            <ControllerName>/
+              ApiModels/
+                <ApiModel>.cs
+              Validation/
+                //validation classes
+              <Name>Controller.cs
+```
