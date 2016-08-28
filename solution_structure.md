@@ -1,5 +1,5 @@
 # Application Solution Structure
-Below is a very large generalization of how I build my .Net Applications. This format has served me well with Clojure, Node, and Rust applications but it has seen the most use _and abuse_ with C#.
+ Below is a large generalization of how I build my .Net Applications. This format has served me well with Clojure, Node, and Rust applications but it has seen the most use _and abuse_ with C#.
 
 ```
 ~/
