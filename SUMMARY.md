@@ -8,5 +8,5 @@
 * [Web Projects](web_projects.md)
 * [Thoughts on APIs](thoughts_on_apis.md)
 * [Patterns](patterns.md)
-* security
+* Security
 
