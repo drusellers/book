@@ -50,6 +50,8 @@ The workflow for MEPs today is non-existent. This is a new area where we seek to
 - Rejected?
 
 
-https://en.wikipedia.org/wiki/Request_for_Comments
-https://www.python.org/dev/peps/
-https://github.com/rust-lang/rfcs
+### Further Reading
+
+- https://en.wikipedia.org/wiki/Request_for_Comments
+- https://www.python.org/dev/peps/
+- https://github.com/rust-lang/rfcs
