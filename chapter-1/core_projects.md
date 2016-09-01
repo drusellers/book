@@ -128,3 +128,19 @@ Contains code that is needed to talk to external services. Ideally this code is 
 - **NOT** unique to the business or application
 
 > Integration / Infrastructure – end up being VERY juicy spots to easily pull code out of into shared libs. It truly highlights cross application duplication, it also helps to standardize common config file settings.
+
+## Examples of a Feature Folder
+
+### The Object Only Feature
+
+```
+~/Features/<KeyEntity>/
+  //might have validations
+  //might have ORM related mappings
+  <Entity>.cs
+  //typically no IoC registrations
+```
+
+Often there are key entities in the solution that need to exist as a feature all to themselves. These entities tend to have a lot of touch points through out the code base and in order to avoid cyclical namespace references we need to put them in their own folder. Doing so will show how important they are, as they will exist outside of any service code.
+
+### The Service Only Feature
