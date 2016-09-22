@@ -11,5 +11,5 @@
 * [Patterns](patterns.md)
 * [Security](security.md)
 * [Company RFCs](company_rfcs.md)
-* Foundations
+* [Foundations](foundations.md)
 
