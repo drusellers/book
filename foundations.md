@@ -68,3 +68,12 @@ The more I think about this, the more I feel like it has to be a linux environme
 ## Workload Scheduling
 - Mesos / Mesosphere / DC/OS
 - Kubernetes
+
+## "Micro" Services
+
+I like this series on moving to services
+
+http://blog.gemnasium.com/post/145001327420/from-monolithic-to-micro-services-part-1-4
+http://blog.gemnasium.com/post/145658885659/from-monolithic-to-micro-services-part-2
+http://blog.gemnasium.com/post/146701089939/from-monolithic-to-micro-services-part-3
+http://blog.gemnasium.com/post/147286451971/from-monolithic-to-micro-services-part-4
