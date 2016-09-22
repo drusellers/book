@@ -12,5 +12,5 @@
 * [Security](security.md)
 * [Company RFCs](company_rfcs.md)
 * [Foundations](foundations.md)
-* change_controls
+* [change_controls](changecontrols.md)
 
