@@ -9,6 +9,7 @@
    * [Core Projects](chapter-1/core_projects.md)
 * [Thoughts on APIs](thoughts_on_apis.md)
 * [Patterns](patterns.md)
+   * Pipelines
 * [Security](security.md)
 * [Company RFCs](company_rfcs.md)
 * [Foundations](foundations.md)
