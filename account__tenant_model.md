@@ -21,5 +21,6 @@ accounts.
   billing_details -- the billing data associated with an organization (there can be many)
 ```
 
-`billing_details (billing_detail_id, organization_id, stripe_token)`
+`billing_details (billing_detail_id, organization_id, type, stripe_token, effective_end)`
 
+By having an effective end, we can use this a way to record trials (type='trial')
