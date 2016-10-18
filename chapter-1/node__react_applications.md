@@ -19,6 +19,7 @@ src/
       index.js        // configures redux
     localStorage/
     serviceWorkers/
+  index.js            // public statac void main
 webpack.config.js
 package.json
 ```
