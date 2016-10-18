@@ -2,6 +2,8 @@
 
 I have a similar structure that works for node and react as well.
 
+http://jaysoo.ca/2016/02/28/organizing-redux-application/
+
 I still need to polish it up a bit more for redux.
 
 ```
