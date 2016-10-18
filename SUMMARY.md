@@ -9,7 +9,6 @@
        * [Web Projects](chapter-1/web_projects.md)
        * [Library Solution Structure](chapter-1/library_solution_structure.md)
        * [Core Projects](chapter-1/core_projects.md)
-       * ABC
    * [Node / React Applications](chapter-1/node__react_applications.md)
    * [Rust Applications](chapter-1/rust_applications.md)
 * [Thoughts on APIs](thoughts_on_apis.md)
