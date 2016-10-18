@@ -8,6 +8,7 @@
    * [Library Solution Structure](chapter-1/library_solution_structure.md)
    * [Core Projects](chapter-1/core_projects.md)
    * [Node / React Applications](chapter-1/node__react_applications.md)
+   * Rust Applications
 * [Thoughts on APIs](thoughts_on_apis.md)
 * [Patterns](patterns.md)
    * [Pipelines](pipelines.md)
