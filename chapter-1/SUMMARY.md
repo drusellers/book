@@ -1,3 +1,3 @@
 # Summary
 
-Code orginazation is important
+Code organization is important
