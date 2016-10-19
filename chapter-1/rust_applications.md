@@ -1,7 +1,8 @@
 # Rust Applications
+
 ```
 src/
-  hosts/
+  apps/
     mod.rs
     http/
       mod.rs
