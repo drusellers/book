@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting the Context](getting_the_context.md)
+* [Getting the Context](gettingthe_context_md.md)
 * [Code Organization](chapter-1/SUMMARY.md)
    * General Structure
    * DotNet Applications
