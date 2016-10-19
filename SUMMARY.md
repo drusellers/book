@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Getting the Context](gettingthe_context_md.md)
 * [Code Organization](chapter-1/SUMMARY.md)
-   * General Structure
+   * [General Structure](chapter-1/general_structure.md)
    * DotNet Applications
        * [Solution Structure](chapter-1/solution_structure.md)
        * [Web Projects](chapter-1/web_projects.md)
