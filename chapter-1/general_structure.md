@@ -1,15 +1,26 @@
 # General Structure
 
 
+# Solution Structure
+
+Solution in this case comes from the Visual Studio nomenclature but what we are talking about is a single software unit. This is typically for me a single git repository or this would be a folder in a monorepository. But this represents a single deployed "software entity".
+
 ```
 ~/
   src/
-    
+  doc/
+  lib/
+  packages/
+  Makefile
+  build.bat
 ```
 
-## Make it easy to identify harvestable code
+The way this folder looks will really depend on your "platform". A lot of the discussion is going to be about what happens in the `src` folder. :)
 
-context
+
+## Goal: Make it easy to identify harvestable code
+
+> Integration / Infrastructure – end up being VERY juicy spots to easily pull code out of into shared libs. It truly highlights cross application duplication, it also helps to standardize common config file settings.
 
 ```
 ~/
@@ -76,4 +87,3 @@ Contains code that is needed to talk to external services. Ideally this code is 
 - NOT unique to the business or application
 
 
-> Integration / Infrastructure – end up being VERY juicy spots to easily pull code out of into shared libs. It truly highlights cross application duplication, it also helps to standardize common config file settings.
