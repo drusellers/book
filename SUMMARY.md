@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting the Context](getting_the_context.md)
+* [Why do companies grow?](getting_the_context.md)
 * [Code Organization](chapter-1/SUMMARY.md)
    * General Structure
    * DotNet Applications
