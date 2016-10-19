@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting the Context](gettingthe_context_md.md)
+* What is a loan?
 * [Code Organization](chapter-1/SUMMARY.md)
    * [General Structure](chapter-1/general_structure.md)
    * DotNet Applications
@@ -11,7 +12,6 @@
        * [Core Projects](chapter-1/core_projects.md)
    * [Node / React Applications](chapter-1/node__react_applications.md)
    * [Rust Applications](chapter-1/rust_applications.md)
-* What is a loan?
 * [Thoughts on APIs](thoughts_on_apis.md)
 * [Patterns](patterns.md)
    * [Pipelines](pipelines.md)
