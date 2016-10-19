@@ -1,7 +1,7 @@
 # General Structure
 
 
-# Solution Structure
+## Solution Structure
 
 Solution in this case comes from the Visual Studio nomenclature but what we are talking about is a single software unit. This is typically for me a single git repository or this would be a folder in a monorepository. But this represents a single deployed "software entity".
 
@@ -15,7 +15,7 @@ Solution in this case comes from the Visual Studio nomenclature but what we are 
   build.bat
 ```
 
-The way this folder looks will really depend on your "platform". A lot of the discussion is going to be about what happens in the `src` folder. :)
+The way this folder looks will depend on your "platform". A lot of the discussion is going to be about what happens in the `src` folder. :)
 
 
 ## Goal: Make it easy to identify harvestable code
