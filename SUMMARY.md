@@ -5,7 +5,7 @@
 * [What is a loan?](what_is_a_loan.md)
 * [Code Organization](chapter-1/SUMMARY.md)
    * [General Structure](chapter-1/general_structure.md)
-   * DotNet Applications
+   * [DotNet Applications](chapter-1/dotnet_applications.md)
        * [Solution Structure](chapter-1/solution_structure.md)
        * [Web Projects](chapter-1/web_projects.md)
        * [Library Solution Structure](chapter-1/library_solution_structure.md)
