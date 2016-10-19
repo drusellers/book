@@ -19,4 +19,5 @@
 * [Foundations](foundations.md)
 * [change_controls](changecontrols.md)
 * [Account / Tenant Model](account__tenant_model.md)
+* What is a loan?
 
