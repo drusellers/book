@@ -25,3 +25,34 @@ src/
 webpack.config.js
 package.json
 ```
+
+## The anatomy of a feature folder
+
+```
+~/
+  features/
+    feature-a/
+      components/
+        <component>/
+          index.js // reexports things
+          <widgetName>.js
+      redux/
+        actionTypes.js
+        actions.js
+        constants.js
+        reducer.js
+        index.js
+      <feature>.js
+```
+
+### Components
+
+This is where the various React components are stored.
+
+### Redux
+
+Still not sure if there is value in grouping these together
+
+### Root Files
+
+This is where the actual feature logic lives
