@@ -15,12 +15,14 @@ Solution in this case comes from the Visual Studio nomenclature but what we are 
   build.bat
 ```
 
-The way this folder looks will depend on your "platform". A lot of the discussion is going to be about what happens in the `src` folder. :)
+The way this folder looks will depend on your "platform". A lot of the discussion is going to be about what happens in the `src` folder versus what happens outside of it.
 
 
 ## Goal: Make it easy to identify harvestable code
 
-> Integration / Infrastructure – end up being VERY juicy spots to easily pull code out of into shared libs. It truly highlights cross application duplication, it also helps to standardize common config file settings.
+For the majority of my career I have worked in internal corporate IT. The following structure is constructed with the thought that identifying code for harvest has value. Additionally, I need a way for the many development teams to communicate that a section of code would be of value to others in the organization. This has lead to the following folder structure which has worked very well for this goal.
+
+> > Integration / Infrastructure – end up being VERY juicy spots to easily pull code out of into shared libs. It truly highlights cross application duplication, it also helps to standardize common config file settings.
 
 ```
 ~/
