@@ -21,3 +21,11 @@ doc/
 Cargo.toml
 Cargo.lock
 ```
+
+## Style Notes
+
+Return a `Box<Error>` when returning a variety of errors. This will let you pass the real error type.
+
+Use `try!()` or the new `?` operator to reduce "pattern matching noise".
+
+If working with the database directly look at the `From` trait.
