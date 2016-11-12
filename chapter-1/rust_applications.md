@@ -38,6 +38,8 @@ Rust's packaging system allows for a more tailored module layout. C# is folders 
     model.rs
       the entity struct
       the implementation of display
+    repository.rs
+      implement repository access here
       
 ```
 
