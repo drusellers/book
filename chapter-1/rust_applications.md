@@ -4,6 +4,8 @@
 src/
   apps/
     mod.rs
+    cli/
+      mod.rs
     http/
       mod.rs
   features/
