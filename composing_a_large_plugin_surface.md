@@ -15,7 +15,7 @@ But you still end up with one class that has a whole lot of methods on it. Makin
 ## Central Interface with Jump Points
 
 ```csharp
-var retailer = GetPlugIn<KuryakynRetailer>();
+var retailer = GetRetailer("kuryakyn");
 retailer.Orders.AcceptUpdates();
 retailer.Inventory.ProcessInventory();
 retailer.Orders.GenerateSessionKey();
