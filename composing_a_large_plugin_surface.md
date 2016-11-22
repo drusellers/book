@@ -16,8 +16,9 @@ But you still end up with one class that has a whole lot of methods on it. Makin
 
 ```csharp
 var retailer = GetPlugIn<KuryakynRetailer>();
-retailer.Orders.ProcessAp();
+retailer.Orders.AcceptUpdates();
 retailer.Inventory.ProcessInventory();
+retailer.Orders.GenerateSessionKey();
 ```
 
 The class Retailer is very basic and takes in the jump points as dependencies. By default we register safe / no-op jump points that log to that effect. Then the developer can implement each jump point one at a time.
