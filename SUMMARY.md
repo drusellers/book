@@ -21,5 +21,5 @@
 * [Foundations](foundations.md)
 * [change_controls](changecontrols.md)
 * [Account / Tenant Model](account__tenant_model.md)
-* Code KPI
+* [Code KPI](code_kpi.md)
 
