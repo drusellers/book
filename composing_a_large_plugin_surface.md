@@ -8,5 +8,17 @@ When you are building a large system and want to allow for a "plugin" type appro
 Provide one big interface that the developers can implement. The problem with one big interface is that it can be a large surface area to implement and can make for very large class file with a lot of mixed concerns.
 
 ## With a base class
-You can solve some of those issue by providing a base class that the developers can override, but now you have inhertance over composition.
+You can solve some of those issue by providing a base class that the developers can override, but now you have inheritance over composition.
+
+But you still end up with one class that has a whole lot of methods on it. Making it hard to use.
+
+## Central Interface with Jump Points
+
+```csharp
+var retailer = GetPlugIn<KuryakynRetailer>();
+retailer.Orders.ProcessAp();
+retailer.Inventory.ProcessInventory();
+```
+
+The class Retailer is very basic and takes in the jump points as dependencies. By default we register safe / no-op jump points that log to that effect. Then the developer can implement each jump point one at a time.
 
