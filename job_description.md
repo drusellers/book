@@ -8,7 +8,7 @@
 
 ## Requirements
 
-Ability to think deeply about a problem. I'm personally not concerned about a degree in a specific field but I am much more interested in you ability to discuss a problem. How deep can you go into the problem space and come back with a solution that fits the business needs.
+Ability to think deeply about a problem. I'm personally not concerned about a degree in a specific field but I am much more interested in your ability to discuss a problem. How deep can you go into the problem space and come back with a solution that fits the business needs.
 
 Ability to explain how you continue to educate yourself. Its all too common to see a developer with 20 years of experience that has simply repeated 1st grade for 20 years. I want to work with people who are actively growing. This doesn't need a crazy amount of work outside of company time but it does take effort to keep up with what is going on in the world. 
 
