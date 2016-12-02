@@ -15,9 +15,13 @@ Ability to explain how you continue to educate yourself. Its all too common to s
 
 If I'm going to be honest, I want to work with someone that knows cybernetics is not about cyborgs.
 
-No matter what process is used we have to understand systems. All systems, designs, approaches, frameworks have their positives and negatives. And like anything else there is ignorance, corruption and profiteering in each area.
+No matter what process we have to understand the system. All systems, designs, approaches, frameworks have their positives and negatives. And like anything else there is ignorance, corruption and profiteering in each area.
 
 Software, Hardware, Networks, System Flow, 3rd party components etc. These are all highly related and to try and separate them is natural. Ideally, you will have an appreciation for each piece of the puzzle.
+
+### Junior Developers
+
+This doesn't mean that if you are just starting out in the world of technology that I don't want to work with you. :) I love teaching and sharing my passion for this subject area. But, do expect to have a steep learning curve ahead of you. I will do my best to help you each step of the way, but I need you to _walk with me_.
 
 ---
 
