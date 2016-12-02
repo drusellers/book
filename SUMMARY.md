@@ -22,7 +22,7 @@
 * [change_controls](changecontrols.md)
 * [Account / Tenant Model](account__tenant_model.md)
 * [Code KPI](code_kpi.md)
-* Job Description
+* [Job Description](job_description.md)
 * [Composing A Large Plugin Surface](composing_a_large_plugin_surface.md)
    * Job Description
 
