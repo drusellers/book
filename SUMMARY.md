@@ -24,5 +24,4 @@
 * [Code KPI](code_kpi.md)
 * [Job Description](job_description.md)
 * [Composing A Large Plugin Surface](composing_a_large_plugin_surface.md)
-   * Job Description
 
