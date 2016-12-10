@@ -4,6 +4,7 @@
 * [Why Do Companies Grow?](gettingthe_context_md.md)
 * [What is a loan?](what_is_a_loan.md)
 * [Domains vs Departments](domains-vs-departments.md)
+* [Thoughts on APIs](thoughts_on_apis.md)
 * [Code Organization](chapter-1/SUMMARY.md)
     * [General Structure](chapter-1/general_structure.md)
     * [DotNet Applications](chapter-1/dotnet_applications.md)
@@ -14,7 +15,6 @@
     * [Node \/ React Applications](chapter-1/node__react_applications.md)
     * [Rust Applications](chapter-1/rust_applications.md)
     * [Clojure Applications](chapter-1/clojure_applications.md)
-* [Thoughts on APIs](thoughts_on_apis.md)
 * [Patterns](patterns.md)
     * [Pipelines](pipelines.md)
 * [Security](security.md)
@@ -24,5 +24,5 @@
 * [Account \/ Tenant Model](account__tenant_model.md)
 * [Code KPI](code_kpi.md)
 * [Job Description](job_description.md)
-* Domains vs Departments
+* [Domains vs Departments](domains-vs-departments.md)
 
