@@ -4,6 +4,7 @@
 * [Why Do Companies Grow?](gettingthe_context_md.md)
 * [What is a loan?](what_is_a_loan.md)
 * [Domains vs Departments](domains-vs-departments.md)
+* [Organization Maturity](organization-maturity.md)
 * [Thoughts on APIs](thoughts_on_apis.md)
 * [Code Organization](chapter-1/SUMMARY.md)
     * [General Structure](chapter-1/general_structure.md)
@@ -23,5 +24,5 @@
 * [change\_controls](changecontrols.md)
 * [Account \/ Tenant Model](account__tenant_model.md)
 * [Code KPI](code_kpi.md)
-* [Job Description](job_description.md)
+* Organization Maturity
 
