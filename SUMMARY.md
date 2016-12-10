@@ -24,5 +24,4 @@
 * [change\_controls](changecontrols.md)
 * [Account \/ Tenant Model](account__tenant_model.md)
 * [Code KPI](code_kpi.md)
-* Organization Maturity
 
