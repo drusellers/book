@@ -24,5 +24,4 @@
 * [Account \/ Tenant Model](account__tenant_model.md)
 * [Code KPI](code_kpi.md)
 * [Job Description](job_description.md)
-* [Domains vs Departments](domains-vs-departments.md)
 
