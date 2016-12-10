@@ -29,3 +29,13 @@ We hire a customer service team to shield us from the sheer volume of interactio
 ## The Mechanical Turk
 
 Now that we have an understanding of why a company might grow, we can start to understand why it will bring on software systems.
+
+Software systems can replace well defined work that a human is currently doing. Once a system becomes so predictable that "a monkey could do it" that typically becomes the moment that automated systems start to appear attractive.
+
+### Coase
+
+Robert Coase argues that companies grow because using the market pricing system for transactions is inherently inefficient. It is this _transactional_ nature that I find the most interesting in regards to staffing, head count and software.
+
+The transactional cost of software is effectively zero. We have systems that can process millions of transactions a second for the simple operating cost of a few servers (Roughly $50/mth in 2016). 
+
+The cost of acquiring a software system is more akin to hiring someone than it is engaging a "contractor". The upfront cost is high as you must interview the provider of the service, but once you've agreed that the fit is good, the overall cost of the transactions virtually disappears.
