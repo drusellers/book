@@ -8,7 +8,7 @@ src/
       mod.rs
     http/
       mod.rs
-  features/
+  features/ -- bad name conflicts with #[feature(_)]
     mod.rs
     feature-a/
       mod.rs
