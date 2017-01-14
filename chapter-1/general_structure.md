@@ -1,24 +1,47 @@
 # General Structure
 
 
-## Solution Structure
+## Root Folder Structure (aka Solution Structure)
 
-Solution in this case comes from the Visual Studio nomenclature but what we are talking about is a single software unit. This is typically for me a single git repository or this would be a folder in a monorepository. But this represents a single deployed "software entity".
+Solution in this case comes from the Visual Studio nomenclature but what we are talking about is a single software unit. This is typically for me a single git repository or this would be a folder in a [mono repository](https://developer.atlassian.com/blog/2015/10/monorepos-in-git/). But this represents a single deployed "software entity".
 
 ```
 ~/
   src/
   doc/
   lib/
-  packages/
-  Makefile
-  build.bat
+  <make files>
 ```
 
 The way this folder looks will depend on your "platform". A lot of the discussion is going to be about what happens in the `src` folder versus what happens outside of it.
 
+##### A .Net version circa 2016
 
-## Goal: Make it easy to identify harvestable code
+```
+~/
+  src/
+  doc/
+  Packages/ -- NuGet packages
+  build.bat
+  <proj>.sln
+```
+
+##### A rust version circa 2016
+
+```
+~/
+  src/
+  doc/
+  Cargo.toml
+```
+
+### Goal: Help me find my way
+
+Having a consistent approach even at this entry level will help people new to the project feel comfortable in the new program.
+
+## Src folder layout
+
+### Goal: Make it easy to identify harvestable code
 
 For the majority of my career I have worked in internal corporate IT. The following structure is constructed with the thought that identifying code for harvest has value. Additionally, I need a way for the many development teams to communicate that a section of code would be of value to others in the organization. This has lead to the following folder structure which has worked very well for this goal.
 

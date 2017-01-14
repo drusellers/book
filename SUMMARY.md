@@ -6,6 +6,7 @@
 * [Domains vs Departments](domains-vs-departments.md)
 * [Organization Maturity](organization-maturity.md)
 * [Thoughts on APIs](thoughts_on_apis.md)
+* [Code Style](code-style.md)
 * [Code Organization](chapter-1/SUMMARY.md)
     * [General Structure](chapter-1/general_structure.md)
     * [DotNet Applications](chapter-1/dotnet_applications.md)
@@ -26,5 +27,5 @@
 * [Code KPI](code_kpi.md)
 * [Bootstrapping Developers to work with me](bootstrapping-developers-to-work-with-me.md)
 * [Style](style.md)
-* [My Coding History](my-coding-history.md)
+* Code Style
 

@@ -1,5 +1,9 @@
 # My Coding History
 
+## pre 2001
+
+Obsession with Typography and page layout due to excessive paper writing in school.
+
 ## 2001
 
 No organizational style, reading - and just trying to get a grip on it all. Notepad and Batch files
