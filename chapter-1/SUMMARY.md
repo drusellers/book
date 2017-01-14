@@ -4,7 +4,11 @@ The way you organize your code is important. As I'm sure you can imagine. The fo
 
 # 2001
 
-No organizational style, reading - and just trying to get a grip on it all.
+No organizational style, reading - and just trying to get a grip on it all. Notepad and Batch files
+
+# 2003
+
+I found Visual Studio .Net - HOLY CRAP!
 
 # 2004
 
@@ -16,7 +20,7 @@ It also focused on handling the network boundary between data access and busines
 
 # 2006
 
-> IoC - DI - MVC
+> IoC - DI - MVC - NAnt
 
 Influences of [Hammett](http://www.hammettblog.com/) as I dug into IoC as a means to implement Castle on Rails. [Introducing Castle - Part 1](https://www.codeproject.com/articles/9157/introducing-castle-part-i)
 
