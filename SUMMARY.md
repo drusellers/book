@@ -26,4 +26,5 @@
 * [Code KPI](code_kpi.md)
 * [Bootstrapping Developers to work with me](bootstrapping-developers-to-work-with-me.md)
 * [Style](style.md)
+* [My Coding History](my-coding-history.md)
 
