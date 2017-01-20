@@ -27,5 +27,6 @@
 * [Code KPI](code_kpi.md)
 * [Bootstrapping Developers to work with me](bootstrapping-developers-to-work-with-me.md)
 * [Style](style.md)
-* Code Style
+* [Code Style](code-style.md)
+* [Accounting and Software Developement](accounting-and-software-developement.md)
 
