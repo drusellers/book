@@ -35,4 +35,5 @@
 * [Point Architecture](point-architecture.md)
 * [Pricing](pricing.md)
 * [Search](search.md)
+* [Lean Sheets](lean-sheets.md)
 
