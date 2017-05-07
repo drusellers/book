@@ -34,4 +34,5 @@
 * [Accounting and Software Developement](accounting-and-software-developement.md)
 * [Point Architecture](point-architecture.md)
 * [Pricing](pricing.md)
+* [Search](search.md)
 
