@@ -18,6 +18,8 @@
   * [Node \/ React Applications](chapter-1/node__react_applications.md)
   * [Rust Applications](chapter-1/rust_applications.md)
   * [Clojure Applications](chapter-1/clojure_applications.md)
+  * [Ruby on Rails](chapter-1/ruby-on-rails.md)
+  * [Unix Conventions](chapter-1/unix-conventions.md)
 * [Patterns](patterns.md)
   * [Pipelines](pipelines.md)
 * [Security](security.md)
