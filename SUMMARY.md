@@ -7,7 +7,6 @@
 * [Organization Maturity](organization-maturity.md)
 * [Thoughts on APIs](thoughts_on_apis.md)
 * [Code Style](code-style.md)
-
 * [Code Organization](chapter-1/SUMMARY.md)
   * [General Structure](chapter-1/general_structure.md)
   * [Junk Drawers](chapter-1/junk-drawers.md)
@@ -23,6 +22,8 @@
   * [Unix Conventions](chapter-1/unix-conventions.md)
 * [Patterns](patterns.md)
   * [Pipelines](pipelines.md)
+  * [Control vs Data Plane](control-vs-data-plane.md)
+  * [Database As State Machines](database-as-state-machines.md)
 * [Security](security.md)
 * [Company RFCs](company_rfcs.md)
 * [Foundations](foundations.md)
@@ -30,8 +31,7 @@
 * [Account \/ Tenant Model](account__tenant_model.md)
 * [Code KPI](code_kpi.md)
 * [Bootstrapping Developers to work with me](bootstrapping-developers-to-work-with-me.md)
-
 * [Accounting and Software Developement](accounting-and-software-developement.md)
-
-
+* [Point Architecture](point-architecture.md)
+* [Pricing](pricing.md)
 
