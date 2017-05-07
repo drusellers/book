@@ -2,8 +2,6 @@
 
 > a take on SOA Application Packaging
 
-
-
 ```
 <program> agent --ui 80 --port 5000
 ```
@@ -36,7 +34,5 @@ Exports events into a queue for OLAP work
 
 Output current status of RCL jobs
 
-
-
-
+![](/assets/IMG_6101.jpg)
 

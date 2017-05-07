@@ -35,5 +35,7 @@
 * [Point Architecture](point-architecture.md)
 * [Pricing](pricing.md)
 * [Search](search.md)
+* Random Notes
+* [Jobs To Be Done](jobs-to-be-done.md)
 * [Lean Sheets](lean-sheets.md)
 
