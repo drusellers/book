@@ -12,15 +12,11 @@ Whats our market "fit" ala Basecamp
 
 Example: RealSavvy + Bonsai?
 
-
-
 Forces of Progress
 
 ![](/assets/import.png)
 
-
-
-Kano Model of Quality![](/assets/kano-model)
+Kano Model of Quality
 
 ![](/assets/kano-model)
 
