@@ -15,27 +15,38 @@ accounts.
   memberships   -- This gives a user access to an organization's stuff
 ```
 
-Every user should have a default organization that is the same name as the user, this way billing details can always be associated with an organization and not a user.
+Every user should have a default organization that is the same name as the user, this way billing details and security rules can always be associated with an organization and not a user. Additionally it can always be traversed from user to organization to account and then back down as needed
+
+### Security Model Notes
+
+#### Key Administrative Roles
+
+* Technical Contact - contact to reach out when we have questions of them for technical things
+* Administrative Contact - can add / remove users
+* Billing Contact - can change billing details
+* Owner - user that can close the account
+
+### Billing Model Notes
 
 ```
-accounts.
-  billing_details -- the billing data associated with an organization (there can be many)
+
+billing_details.
+  id
+  account_id
+  billing_user_id # user in charge of key billing items? or role based
+  base_plan_id    # The plan that was used as a starting point 
+  price_override  # The amount to be charged to the customer
+  stripe_token?
+  chargify_token?
+  effective_start
+  effective_end
 ```
 
-`billing_details (billing_detail_id, organization_id, type, stripe_token, effective_end)`
+By having an effective end, we can use this a way to record trials \(type='trial'\)?
 
-By having an effective end, we can use this a way to record trials \(type='trial'\)
 
-```
-Account Billing Contact
-accounts.
-  owner_id
-  administrative_contact_id
-  technical_contact_id
-  billing_contact_id
-```
 
-## \# CHARGIFY NOTES
+# Chargify Notes
 
 ## Subscription
 
