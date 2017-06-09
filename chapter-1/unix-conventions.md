@@ -22,11 +22,12 @@
   dev/       # block devices
   etc/       # configuration files
   lib/       # common C libraries
+  opt/       # put your code here
 ```
 
-https://en.wikipedia.org/wiki/Unix\_filesystem
+[https://en.wikipedia.org/wiki/Unix\_filesystem](https://en.wikipedia.org/wiki/Unix_filesystem)
 
-https://en.wikipedia.org/wiki/Filesystem\_Hierarchy\_Standard
+[https://en.wikipedia.org/wiki/Filesystem\_Hierarchy\_Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
-https://wiki.debian.org/FilesystemHierarchyStandard
+[https://wiki.debian.org/FilesystemHierarchyStandard](https://wiki.debian.org/FilesystemHierarchyStandard)
 

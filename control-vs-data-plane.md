@@ -2,7 +2,7 @@
 
 A fun term vocab I've seen lately.
 
-
+Relevant in Proxies
 
 ## Control Plane
 
@@ -16,9 +16,7 @@ Listening on say 2000 and allows manipulations of the main application
 
 The app doing the work. Like a router. listening on 80/443 doing its biz
 
-
-
-https://linkerd.io/
+[https://linkerd.io/](https://linkerd.io/)
 
 Prometheus?
 
