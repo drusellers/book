@@ -39,4 +39,5 @@
 * [Jobs To Be Done](jobs-to-be-done.md)
 * [Lean Sheets](lean-sheets.md)
 * [Accounts and Plans](accounts-and-plans.md)
+* [Strategy](strategy.md)
 
