@@ -12,6 +12,9 @@ I still need to polish it up a bit more for redux.
 
 ```text
 src/
+  screens/
+    screen-a/
+      index.js
   features/
     feature-a/
       components/     // react ui components
@@ -39,6 +42,8 @@ package.json
 
 ```text
 ~/
+  screens/
+    screen-a/
   features/
     feature-a/
       components/
@@ -53,6 +58,10 @@ package.json
       index.js
       <feature>.js
 ```
+
+### Screens
+
+These are the routable views in the application
 
 ### Components
 

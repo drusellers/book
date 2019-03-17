@@ -17,6 +17,7 @@
     * [Core Projects](code-organization/dotnet-applications/core-projects.md)
   * [Node / React Applications](code-organization/node-react-applications.md)
   * [Rust Applications](code-organization/rust-applications.md)
+  * [CSS / HTML](code-organization/css-html.md)
   * [Clojure Applications](code-organization/clojure-applications.md)
   * [Ruby on Rails](code-organization/ruby-on-rails.md)
   * [Unix Conventions](code-organization/unix-conventions.md)
