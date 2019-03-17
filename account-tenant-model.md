@@ -1,4 +1,4 @@
-# Account \/ Tenant Model
+# Account / Tenant Model
 
 ## Account / Tenant Model
 
