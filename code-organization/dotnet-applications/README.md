@@ -1,7 +1,8 @@
 # DotNet Applications
+
 How do solutions and projects of .net work with this model
 
-```
+```text
 ~/
   src/
     Project/
@@ -10,3 +11,4 @@ How do solutions and projects of .net work with this model
 ```
 
 Go into detail.
+

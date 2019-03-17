@@ -1,9 +1,10 @@
-# Application Solution Structure
- Below is a large generalization of how I build my .Net Applications. This format has served me well with Clojure, Node, and Rust applications but it has seen the most use _and abuse_ with C#. I've based this structure on a lot of OSS.
+# Solution Structure
+
+Below is a large generalization of how I build my .Net Applications. This format has served me well with Clojure, Node, and Rust applications but it has seen the most use _and abuse_ with C\#. I've based this structure on a lot of OSS.
 
 ## High level Structure
 
-```
+```text
 ~/
     packages/
     src/
@@ -15,11 +16,11 @@
     README.md
 ```
 
-This is the basic setup. This divides the application into its major parts. `src` contains the actual source code of the project. `build` houses the scripts to automate source builds (Note in languages like rust or dynamic languages this makes less sense. `db` contains the required files to version the database product for the application. The files `build.bat` and `ci.bat` are for the CI server and devs to use for building the source project. The final file `README.md` is a simple markdown file that helps a new dev get started with the project. The `packages` folder is for NuGet content. **DO NOT** check the `packages` folder into source control.
+This is the basic setup. This divides the application into its major parts. `src` contains the actual source code of the project. `build` houses the scripts to automate source builds \(Note in languages like rust or dynamic languages this makes less sense. `db` contains the required files to version the database product for the application. The files `build.bat` and `ci.bat` are for the CI server and devs to use for building the source project. The final file `README.md` is a simple markdown file that helps a new dev get started with the project. The `packages` folder is for NuGet content. **DO NOT** check the `packages` folder into source control.
 
 ## Inside of src
 
-```
+```text
 ~/
     src/
         clients/
@@ -36,7 +37,7 @@ This directory holds projects that expose client libraries to the overall soluti
 
 This directory holds the process hosts. These are the actual computer entry points. An example one might look like:
 
-```
+```text
 ~/src/hosts/
     <ProjectName>.Cmd/
         Program.cs
@@ -50,7 +51,7 @@ The goal is to make these as slim and possible and devoid of as much business lo
 
 This directory holds all of the test projects.
 
-```
+```text
 ~/src/tests/
     Integration/
         <integration tests>.cs
@@ -66,7 +67,7 @@ This is where the core code of the project lives. This is the Business Logic.
 
 ## Complete Picture
 
-```
+```text
 ~/
   dev/
     <project-name>/

@@ -1,4 +1,4 @@
-# Jobs to be Done
+# Jobs To Be Done
 
 Hire the product to do a JOB
 
@@ -14,9 +14,9 @@ Example: RealSavvy + Bonsai?
 
 Forces of Progress
 
-![](/assets/import.png)
+![](.gitbook/assets/import.png)
 
 Kano Model of Quality
 
-![](/assets/kano-model)
+![](.gitbook/assets/kano-model.bin)
 

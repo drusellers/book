@@ -1,4 +1,4 @@
-# Bootstrapping a Developer to Work with Me
+# Bootstrapping Developers to work with me
 
 1. Have them build a naive Dapper
 
@@ -42,8 +42,7 @@ public class DapperTest
 }
 ```
 
-2. Have them build a naive NHibernate on top of the dapper
+1. Have them build a naive NHibernate on top of the dapper
+2. Have them build a naive IoC container
+3. Make sure they understand type scanning
 
-3. Have them build a naive IoC container
-
-4. Make sure they understand type scanning

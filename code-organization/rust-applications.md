@@ -1,6 +1,6 @@
 # Rust Applications
 
-```
+```text
 src/
   apps/
     mod.rs
@@ -28,7 +28,7 @@ Cargo.lock
 
 Rust's packaging system allows for a more tailored module layout. C\# is folders and namespaces, but inside of an assembly its harder to construct a clean module. Node/JavaScript with their reexport capabilities allow for a more crafted experience.
 
-```
+```text
 ~/
   <the feature>/
     http.rs
@@ -48,7 +48,7 @@ Rust's packaging system allows for a more tailored module layout. C\# is folders
 
 Return a `Box<Error>` when returning a variety of errors. This will let you pass the real error type.
 
-Also, use - https://github.com/brson/error-chain
+Also, use - [https://github.com/brson/error-chain](https://github.com/brson/error-chain)
 
 Use `try!()` or the new `?` operator to reduce "pattern matching noise".
 

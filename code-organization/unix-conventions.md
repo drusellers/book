@@ -1,6 +1,8 @@
-# Bash / Unix Conventions
+# Unix Conventions
 
-```
+## Bash / Unix Conventions
+
+```text
 ~/
   bin/         # executable files by the average user
   sbin/        # executable files for the sysadmin
@@ -9,9 +11,9 @@
   src/         #source code files
 ```
 
-# File system stuff from OMC
+## File system stuff from OMC
 
-```
+```text
 /
   mnt/       # where we mount filesystems
     log/     # logs - not backed up

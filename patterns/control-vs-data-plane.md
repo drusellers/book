@@ -1,4 +1,4 @@
-# Control vs. Data Planes
+# Control vs Data Plane
 
 A fun term vocab I've seen lately.
 

@@ -1,10 +1,10 @@
-# Databases as State Machines
+# Database As State Machines
 
 Talk by Heroku DoD
 
-⭐️ https://www.youtube.com/watch?v=twTWnZb0Ib4
+⭐️ [https://www.youtube.com/watch?v=twTWnZb0Ib4](https://www.youtube.com/watch?v=twTWnZb0Ib4)
 
-http://www.skorks.com/2011/09/why-developers-never-use-state-machines/ 
+[http://www.skorks.com/2011/09/why-developers-never-use-state-machines/](http://www.skorks.com/2011/09/why-developers-never-use-state-machines/)
 
 [https://engineering.shopify.com/17488160-why-developers-should-be-force-fed-state-machineshttps://content.pivotal.io/blog/maintainable-state-machines-part-2-don-t-store-state-names-in-the-database](https://engineering.shopify.com/17488160-why-developers-should-be-force-fed-state-machineshttps://content.pivotal.io/blog/maintainable-state-machines-part-2-don-t-store-state-names-in-the-database)
 
@@ -45,6 +45,4 @@ while(thing = queue.shift())
     queue.push(thing)
 end
 ```
-
-
 

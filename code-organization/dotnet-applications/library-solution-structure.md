@@ -1,6 +1,6 @@
 # Library Solution Structure
 
-```
+```text
 #NO HOSTS
 Tests/
   MAG.<LibName>.UnitTests/
@@ -15,3 +15,4 @@ MAG.<LibName>/
   <Needed Interfaces and Base Objects>
   I<LibName>Marker.cs
 ```
+

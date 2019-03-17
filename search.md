@@ -2,23 +2,17 @@
 
 Implementing a real search strategy
 
-
-
 ## Query Strings
 
 `q` - is used for the term to search
 
 `qf` - is used for filtering the search
 
-
-
 These can then be tracked in Google Analytics to see which terms / filters are converting.
 
 * Site Search On
 * Query Parameter
 * Category Parametr
-
-
 
 ### Boosting
 
@@ -35,6 +29,4 @@ by customer attributes
 Leverage synonym files
 
 Ability to A/B test search terms
-
-
 

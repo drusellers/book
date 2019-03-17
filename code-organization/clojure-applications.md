@@ -1,7 +1,6 @@
 # Clojure Applications
 
-
-```
+```text
 src/
   apps/
     cli.clj
@@ -18,3 +17,4 @@ project.clj
 ```
 
 Specs should go in feature that describes them.
+

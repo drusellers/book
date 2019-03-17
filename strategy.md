@@ -1,2 +1,4 @@
-https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec
+# Strategy
+
+[https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
 

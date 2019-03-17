@@ -2,13 +2,13 @@
 
 > a take on SOA Application Packaging
 
-```
+```text
 <program> agent --ui 80 --port 5000
 ```
 
 exposes a UI dashboard on port 80
 
-```
+```text
 <program> agent --port 5000
 ```
 
@@ -22,17 +22,17 @@ Stores data in a database
 
 Exports events into a queue for OLAP work
 
-```
+```text
 <program> analysis
 ```
 
 ## Run Control Loop
 
-```
+```text
 <program> status
 ```
 
 Output current status of RCL jobs
 
-![](/assets/IMG_6101.jpg)
+![](.gitbook/assets/img_6101.jpg)
 

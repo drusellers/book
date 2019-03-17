@@ -2,5 +2,3 @@
 
 How to model your app making money.
 
-
-

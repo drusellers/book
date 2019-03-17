@@ -1,12 +1,12 @@
 # Web Projects
 
 > This is largely because of the way the current version of ASP.Net MVC is constructed.
-
-> For the purposes of this discussion this is a project that is built in Visual Studio, targeting the .Net platform, to be hosted in IIS. In the larger solution, the path is something like ~/Hosts/<Proj>.Web/
-
+>
+> For the purposes of this discussion this is a project that is built in Visual Studio, targeting the .Net platform, to be hosted in IIS. In the larger solution, the path is something like ~/Hosts/.Web/
+>
 > Please remember these sites will need to support CDN
 
-```
+```text
 ~/
     Content/
         scripts/
@@ -23,7 +23,7 @@
 
 ## Versioned APIs
 
-```
+```text
 ~/
     Controllers/
         <Controller>Controller.cs
@@ -36,3 +36,4 @@
                 //validation classes
               <Name>Controller.cs
 ```
+

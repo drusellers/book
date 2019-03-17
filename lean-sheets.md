@@ -1,4 +1,4 @@
-# Lean Sheets Meeting
+# Lean Sheets
 
 Business Maturity increases predictability
 
@@ -12,7 +12,7 @@ Limit WIP
 
 New processes expose a "J" curve
 
-```
+```text
         -----
        /
 --    /
@@ -34,6 +34,4 @@ Read:
 David Andreson - book / blogs
 
 Mike Burrows - Kanban from the inside
-
-
 
