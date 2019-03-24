@@ -109,3 +109,28 @@ Contains code that is needed to talk to external services. Ideally this code is 
 * medium to slow moving code
 * NOT unique to the business or application
 
+### bin/ files
+
+Over the years I've grown accustom to having a set of "bin" stubs that help me execute common tasks no matter the programming language.
+
+```text
+~/
+    bin/
+        reboot
+        run
+        test
+        setup
+```
+
+These simple bash scripts abstract out the programming language and framework and provide a common framework across projects to solve pain points.
+
+reboot: kill the database, redo everything
+
+run: run the application, I don't care to learn the intricacies of your project just let me run it.
+
+test: run the tests
+
+setup: install all of the stuff I'm going to need
+
+
+
