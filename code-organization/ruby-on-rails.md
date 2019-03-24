@@ -21,3 +21,10 @@ Adding a new "DLL" \(stateless logic\) is simply `bundle gem abc`
 
 `rails plugin new <engine name> --mountable`
 
+* annotate
+* sidekick
+* rspec
+* rubocop
+* devise
+* husky - for git hooks
+* 
