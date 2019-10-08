@@ -43,4 +43,6 @@
 * [Lean Sheets](lean-sheets.md)
 * [Accounts and Plans](accounts-and-plans.md)
 * [Strategy](strategy.md)
+* [Mental Models](mental-models.md)
+* [Planning](planning.md)
 
