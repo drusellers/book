@@ -19,6 +19,16 @@ accounts.
 
 Every user should have a default organization that is the same name as the user, this way billing details and security rules can always be associated with an organization and not a user. Additionally it can always be traversed from user to organization to account and then back down as needed
 
+_Alternative_ 
+
+```text
+companies  # Administrative roll ups (non-app use)
+accounts   # Stripe.Customer - billing entity
+user       # The user with Login Rights
+membership # what roll does this user play in 
+           #   this acocunt? 
+```
+
 #### Security Model Notes
 
 **Key Administrative Roles**

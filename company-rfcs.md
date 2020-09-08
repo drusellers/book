@@ -44,12 +44,12 @@ The workflow for MEPs today is non-existent. This is a new area where we seek to
 
 #### MEP Statuses
 
-* Draft - has not yet been submitted or approved
-* Ratified - different meaning that accepted?
-* Accepted - MEP has been approved by leadership team
-* Living - indicates a MEP has been approved by leadership team though may change frequently \(is this needed?\)
-* Closed?
-* Rejected?
+* `Draft` - has not yet been submitted or approved
+* `Ratified` - different meaning that accepted?
+* `Accepted` - MEP has been approved by leadership team
+* `Living` - indicates a MEP has been approved by leadership team though may change frequently \(is this needed?\)
+* `Closed?`
+* `Rejected?`
 
 ### Further Reading
 

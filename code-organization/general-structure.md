@@ -124,13 +124,21 @@ Over the years I've grown accustom to having a set of "bin" stubs that help me e
 
 These simple bash scripts abstract out the programming language and framework and provide a common framework across projects to solve pain points.
 
-reboot: kill the database, redo everything
+`reboot`: kill the database, redo everything
 
-run: run the application, I don't care to learn the intricacies of your project just let me run it.
+`run`: run the application, I don't care to learn the intricacies of your project just let me run it.
 
-test: run the tests
+`test`: run the tests
 
-setup: install all of the stuff I'm going to need
+`setup`: install all of the stuff I'm going to need
 
+## Multiple Build Setups
 
+### Rust and Webpack 
+
+```text
+~/
+  src/ # rust code
+  ui/  # webpack code
+```
 

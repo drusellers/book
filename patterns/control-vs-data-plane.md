@@ -2,7 +2,9 @@
 
 A fun term vocab I've seen lately.
 
-Relevant in Proxies
+I think this is super relevant in "queue" based systems, where you may have a queue backing up and you need to send a message to change its behavior. You don't want your control message to get stuck behind a bunch of business transaction messages. So you can build another input queue that it listens on that can change behavior and is typically empty so it can be processed quickly.
+
+In HTTP systems its possible that the main port is getting hammered and becomes non-responsive. Having an alternate port to send health checks to etc can be helpful in that same regard.
 
 ## Control Plane
 
